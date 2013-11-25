@@ -25,7 +25,7 @@ This Kentico plugin for *GroupDocs Viewer for Java*
 3. Click to *Home* page and then to *Design* tab
 4. Select *GroupDocs Viewer for Java* in dropdown list
 5. Drag&Drop *GroupDocs Viewer for Java* to your page
-6. In popup window enter file *Guid* and click *Ok*
+6. In popup window enter requirement fields and click *Ok*
 7. Plugin successfully added to page
 
 ### Development notes
